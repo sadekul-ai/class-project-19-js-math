@@ -4,7 +4,10 @@
 পয়েন্টের পরের সংখ্যা .50 থেকে উপরে হলে উপরের সংখায় সমান ও .50 নিচে হলে নিচের সংখ্যার সমান করার জন্য .round ব্যবহার করতে হবে।
 কোন একটি নির্দিষ্ট সংখ্যার সমান না হওয় পর‌্যন্ত এলোমেলো ভাবে সংখ্যা বের করার জন্য Math.random ব্যবহার করতে হবে।
 milk glass exchange
-better profession
+better profession compare
+loop using on array
+minimum and maximum number search
+fibonacciSeries
 
 // let myNumber = -5;
 // let output = Math.abs(myNumber);
